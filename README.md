@@ -16,7 +16,6 @@ The deployed version of the application can be found at:
 https://budget-tracker-els-2021.herokuapp.com/
 
 ## Table of Contents 
-Remove sections that are not applicable.
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [License](#license)
